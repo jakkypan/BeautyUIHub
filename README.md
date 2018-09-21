@@ -11,3 +11,5 @@
 [25种开源炫酷UI动画框架](https://blog.csdn.net/CSDN2497242041/article/details/79250688)
 
 [腾讯开源的Android UI框架——QMUI Android](https://juejin.im/entry/5a289e04f265da43305e5aa5)
+
+[androidxy优秀库](http://androidxy.com/zh/page/latest/2/0)
